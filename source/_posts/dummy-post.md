@@ -1,5 +1,5 @@
 ---
-title: '01 - Dummy Post'
+title: '01 - Dummy Post-Demo'
 date: 2017-09-24
 tags:
   - css
